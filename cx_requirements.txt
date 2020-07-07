@@ -1,0 +1,7 @@
+Flask==1.1.1
+flask-uuid==0.2
+flask-sqlalchemy==2.4.1
+pyodbc==4.0.30
+sqlalchemy-utils==0.36.1
+jsonschema==3.2.0 
+jwt==0.6.1
